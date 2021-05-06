@@ -16,7 +16,7 @@ Wordpress project, which one use Custom field and add new fields to wordpress ap
 <p>Create record in categories of Posts.</p>
 
 <h5>Step 6:</h5>
-<p>Add oir create your php file with codo similar to the one in the MyFunctions.php</p>
+<p>Add or create your php file with codo similar to the one in the MyFunctions.php</p>
 
 <h5>Step 7:</h5>
 <p>Add in the functions.php file of the new theme installed 'require_once (ABSPATH . 'MyFunctions.php');' or 'require_once (ABSPATH . 'myfile.php');'</p>
