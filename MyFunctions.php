@@ -1,8 +1,5 @@
 <?php
 
-add_action('wp_footer', 'twentytwentyone_add_ie_class');
-
-
 add_action('rest_api_init', function () {
     register_rest_field('category', 'imagenes', array(
         'get_callback' => function ($category) {
